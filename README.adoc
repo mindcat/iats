@@ -1,0 +1,88 @@
+= ilo ante sitelen toki
+
+[cols="1,1"]
+|===
+|toki pona |english
+
+|ilo
+|tool, implement, machine, device
+
+|ante
+|different, altered; modify; other
+
+|sitelen
+|image, representation, symbol, mark, writing
+
+|toki
+|communicate, say, think; conversation, story; language
+|===
+
+== machine [for] changing written language
+
+We already see many of the challenges we will face, though.
+
+|===
+| |toki pona |english |汉语
+
+|morphological typology
+|analytical
+|synthetic
+|analytical
+
+|educated L1 passive word recognition (# words)
+|N/A (137)
+|15-30k
+|10-20k
+
+|corpora available (# tokens)
+|<100k morphemes
+|1-10+ billion words
+|35+ billion morphemes
+
+|Speakers
+|<25 thousand
+|1.53 billion
+|1.18 billion
+
+|
+|
+|
+|
+
+
+|===
+
+=== Lossy translation with a highly contextual language
+
+ilo ante sitelen toki may also be translated as...
+
+> the translator is a sign language
+
+> the translator is printed
+
+> a sign language translator (interpreter)
+
+> a pencil is a sign language
+
+> the translator is a pen
+
+while machine translator might be translated a number of ways, depended on detail, complexity, and existing context...
+
+> ilo pi ante toki (machine of changing language)
+
+> ilo pi toki ante (machine of language modifying)
+
+if we need more detail...
+
+> lawa ilo li toki ante (machine mind is changing language) -> computer translator
+
+> ilo toki ante pi ilo nasin sona (machine language changer of machine knowledge growth) -> machine learning language translator
+
+> ilo toki ante pi toki pona e toki Inli  (machine language changer of good language and 'English' language) -> translator of toki pona and english
+
+> ilo pi nasin sona ilo toki ante pi toki pona en toki Inli (machine <of machine knowledge growth> language changer <of good language and 'English' language>) -> machine learning translator of toki pona and english
+
+Remember, there are no verbs or direct objects here (no li or e), so ALL of the above are *single words*. It makes the analytical aspects of German grammar seem quite minimal!
+
+
+
