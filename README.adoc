@@ -1,5 +1,11 @@
 = ilo ante sitelen toki
 
+== problem statement
+> testing
+
+
+== toki pona background
+
 [cols="1,1"]
 |===
 |toki pona |english
@@ -17,7 +23,7 @@
 |communicate, say, think; conversation, story; language
 |===
 
-== machine [for] changing written language
+=== machine [for] changing written language
 
 We already see many of the challenges we will face, though.
 
@@ -52,7 +58,7 @@ We already see many of the challenges we will face, though.
 
 |===
 
-=== Lossy translation with a highly contextual language
+==== Lossy translation with a highly contextual language
 
 ilo ante sitelen toki may also be translated as...
 
@@ -68,19 +74,19 @@ ilo ante sitelen toki may also be translated as...
 
 while machine translator might be translated a number of ways, depended on detail, complexity, and existing context...
 
-> ilo pi ante toki (machine of changing language)
+> ilo pi ante toki (_machine of changing language_)
 
-> ilo pi toki ante (machine of language modifying)
+> ilo pi toki ante (_machine of language modifying_)
 
 if we need more detail...
 
-> lawa ilo li toki ante (machine mind is changing language) -> computer translator
+> lawa ilo li toki ante (_machine mind is changing language_) -> computer translator
 
-> ilo toki ante pi ilo nasin sona (machine language changer of machine knowledge growth) -> machine learning language translator
+> ilo toki ante pi ilo nasin sona (_machine language changer of machine knowledge growth_) -> machine learning language translator
 
-> ilo toki ante pi toki pona e toki Inli  (machine language changer of good language and 'English' language) -> translator of toki pona and english
+> ilo toki ante pi toki pona e toki Inli (_machine language changer of good language and 'English' language_) -> translator of toki pona and english
 
-> ilo pi nasin sona ilo toki ante pi toki pona en toki Inli (machine <of machine knowledge growth> language changer <of good language and 'English' language>) -> machine learning translator of toki pona and english
+> ilo pi nasin sona ilo toki ante pi toki pona en toki Inli (_machine <of machine knowledge growth> language changer <of good language and 'English' language>_) -> machine learning translator of toki pona and english
 
 Remember, there are no verbs or direct objects here (no li or e), so ALL of the above are *single words*. It makes the analytical aspects of German grammar seem quite minimal!
 

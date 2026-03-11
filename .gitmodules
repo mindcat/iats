@@ -1,0 +1,6 @@
+[submodule "tp-gpt2"]
+	path = tp-gpt2
+	url = git@github.com:mindcat/toki-pona-language-model.git
+[submodule "tp-dataset"]
+	path = tp-dataset
+	url = https://github.com/mindcat/tp-dataset

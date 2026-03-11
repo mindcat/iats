@@ -1,0 +1,12 @@
+[project]
+name = "torch-ios-conv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "coremltools>=9.0",
+    "ipykernel>=7.2.0",
+    "toml>=0.10.2",
+    "torch==2.7",
+]
