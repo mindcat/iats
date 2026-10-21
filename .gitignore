@@ -410,3 +410,13 @@ CLAUDE_CONTEXT/
 /.claude/settings.local.json
 
 **/data/*
+
+# pipeline artifacts (datasets, checkpoints, caches)
+glyph-seg/runs/
+glyph-seg/*.pt
+weights/
+tp-mt/runs/
+tp-mt/cache/
+tp-mt/runs_*.log
+tp-mt/grammar/node_modules/
+tp-mt/grammar/nasin.cjs
