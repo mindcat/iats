@@ -1,0 +1,3113 @@
+{
+ "0": {
+  "word": "a",
+  "ucsur_hex": "U+F1900",
+  "category": [
+   "evoke"
+  ],
+  "definition_en": "(emphasis/emotion interjection); ah, oh, haha, eh, um",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "1": {
+  "word": "akesi",
+  "ucsur_hex": "U+F1901",
+  "category": [
+   "critters"
+  ],
+  "definition_en": "reptile, amphibian, scaly animal",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "2": {
+  "word": "ala",
+  "ucsur_hex": "U+F1902",
+  "category": [
+   "counting"
+  ],
+  "definition_en": "not, nothing, no; 0; (negation); (yes-no question)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "3": {
+  "word": "alasa",
+  "ucsur_hex": "U+F1903",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "hunt, forage, seek, attempt, try",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "4": {
+  "word": "ale",
+  "ucsur_hex": "U+F1904",
+  "category": [
+   "counting"
+  ],
+  "definition_en": "all, everything, entirety; any; 100",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "5": {
+  "word": "anpa",
+  "ucsur_hex": "U+F1905",
+  "category": [
+   "locating"
+  ],
+  "definition_en": "bottom, underside; below; defeat, humble, lowly",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "6": {
+  "word": "ante",
+  "ucsur_hex": "U+F1906",
+  "category": [
+   "descriptions",
+   "state"
+  ],
+  "definition_en": "different, change, changed, other",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "7": {
+  "word": "anu",
+  "ucsur_hex": "U+F1907",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(possibility marker), or",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "8": {
+  "word": "awen",
+  "ucsur_hex": "U+F1908",
+  "category": [
+   "state"
+  ],
+  "definition_en": "stay, remain, wait; protect, save; to continue",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "9": {
+  "word": "e",
+  "ucsur_hex": "U+F1909",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(direct object marker)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "10": {
+  "word": "en",
+  "ucsur_hex": "U+F190A",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(multiple subject marker)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "11": {
+  "word": "esun",
+  "ucsur_hex": "U+F190B",
+  "category": [
+   "necessities",
+   "activity"
+  ],
+  "definition_en": "market, shop; trade, buy, sell",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "12": {
+  "word": "ijo",
+  "ucsur_hex": "U+F190C",
+  "category": [
+   "things"
+  ],
+  "definition_en": "thing, object, matter",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "13": {
+  "word": "ike",
+  "ucsur_hex": "U+F190D",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "bad, negative, unpleasant, cringe, complex, harmful, unneeded",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "14": {
+  "word": "ilo",
+  "ucsur_hex": "U+F190E",
+  "category": [
+   "things"
+  ],
+  "definition_en": "tool, machine, device, instrument",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "15": {
+  "word": "insa",
+  "ucsur_hex": "U+F190F",
+  "category": [
+   "locating",
+   "body"
+  ],
+  "definition_en": "inside, center, between, middle; organ, stomach",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "16": {
+  "word": "jaki",
+  "ucsur_hex": "U+F1910",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "disgusting, unclean, toxic",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "17": {
+  "word": "jan",
+  "ucsur_hex": "U+F1911",
+  "category": [
+   "people"
+  ],
+  "definition_en": "person, somebody",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "18": {
+  "word": "jasima",
+  "ucsur_hex": "U+F197F",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "mirror, reflection, opposite",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "19": {
+  "word": "jelo",
+  "ucsur_hex": "U+F1912",
+  "category": [
+   "sight"
+  ],
+  "definition_en": "yellow, yellowish color",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "20": {
+  "word": "jo",
+  "ucsur_hex": "U+F1913",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "have, hold, carry, contain",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "21": {
+  "word": "kala",
+  "ucsur_hex": "U+F1914",
+  "category": [
+   "critters"
+  ],
+  "definition_en": "fish, marine animal",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "22": {
+  "word": "kalama",
+  "ucsur_hex": "U+F1915",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "to make noise; sound",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "23": {
+  "word": "kama",
+  "ucsur_hex": "U+F1916",
+  "category": [
+   "state"
+  ],
+  "definition_en": "arrive, summon; future; become",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "24": {
+  "word": "kasi",
+  "ucsur_hex": "U+F1917",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "plant, vegetation; herb, leaf",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "25": {
+  "word": "ken",
+  "ucsur_hex": "U+F1918",
+  "category": [
+   "state"
+  ],
+  "definition_en": "can, may, ability; possible; allow, enable; to be able to",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "26": {
+  "word": "kepeken",
+  "ucsur_hex": "U+F1919",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "using, with, by means of",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "27": {
+  "word": "kijetesantakalu",
+  "ucsur_hex": "U+F1980",
+  "category": [
+   "critters"
+  ],
+  "definition_en": "raccoon, procyonid, musteloid",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "28": {
+  "word": "kili",
+  "ucsur_hex": "U+F191A",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "fruit, vegetable",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "29": {
+  "word": "kin",
+  "ucsur_hex": "U+F1979",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "too, also",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "30": {
+  "word": "kipisi",
+  "ucsur_hex": "U+F197B",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "cut, split, slice; piece, part",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "31": {
+  "word": "kiwen",
+  "ucsur_hex": "U+F191B",
+  "category": [
+   "descriptions",
+   "elements"
+  ],
+  "definition_en": "hard object, stone, rock, metal",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "32": {
+  "word": "ko",
+  "ucsur_hex": "U+F191C",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "clay, dough, something pliable, powder, sand",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "33": {
+  "word": "kon",
+  "ucsur_hex": "U+F191D",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "air, breath, wind; spirit, soul",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "34": {
+  "word": "ku",
+  "ucsur_hex": "U+F1988",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "to interact with Toki Pona Dictionary by Sonja Lang",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "35": {
+  "word": "kule",
+  "ucsur_hex": "U+F191E",
+  "category": [
+   "sight"
+  ],
+  "definition_en": "color; aspect of sense, timbre, pitch, flavor, texture; queer",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "36": {
+  "word": "kulupu",
+  "ucsur_hex": "U+F191F",
+  "category": [
+   "people"
+  ],
+  "definition_en": "group, community, company, collection, team",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "37": {
+  "word": "kute",
+  "ucsur_hex": "U+F1920",
+  "category": [
+   "body"
+  ],
+  "definition_en": "ear; hear, listen",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "38": {
+  "word": "la",
+  "ucsur_hex": "U+F1921",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(context marker)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "39": {
+  "word": "lape",
+  "ucsur_hex": "U+F1922",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "sleep, rest",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "40": {
+  "word": "laso",
+  "ucsur_hex": "U+F1923",
+  "category": [
+   "sight"
+  ],
+  "definition_en": "blue, green, turquoise, indigo",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "41": {
+  "word": "lawa",
+  "ucsur_hex": "U+F1924",
+  "category": [
+   "body",
+   "descriptions"
+  ],
+  "definition_en": "head, mind; lead; leader; rule",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "42": {
+  "word": "leko",
+  "ucsur_hex": "U+F197C",
+  "category": [
+   "things"
+  ],
+  "definition_en": "square, cube, block, brick",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "43": {
+  "word": "len",
+  "ucsur_hex": "U+F1925",
+  "category": [
+   "necessities"
+  ],
+  "definition_en": "cloth, fabric; hidden, private",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "44": {
+  "word": "lete",
+  "ucsur_hex": "U+F1926",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "cold, cool, frozen; raw",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "45": {
+  "word": "li",
+  "ucsur_hex": "U+F1927",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(predicate marker)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "46": {
+  "word": "lili",
+  "ucsur_hex": "U+F1928",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "little, small, short; few; young",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "47": {
+  "word": "linja",
+  "ucsur_hex": "U+F1929",
+  "category": [
+   "things"
+  ],
+  "definition_en": "long and flexible thing, rope, hair, line, string",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "48": {
+  "word": "lipu",
+  "ucsur_hex": "U+F192A",
+  "category": [
+   "things"
+  ],
+  "definition_en": "flat object, paper, document, card, website",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "49": {
+  "word": "loje",
+  "ucsur_hex": "U+F192B",
+  "category": [
+   "sight"
+  ],
+  "definition_en": "red, reddish color",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "50": {
+  "word": "lon",
+  "ucsur_hex": "U+F192C",
+  "category": [
+   "locating",
+   "connection"
+  ],
+  "definition_en": "located at; real, true, exist",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "51": {
+  "word": "luka",
+  "ucsur_hex": "U+F192D",
+  "category": [
+   "body",
+   "counting"
+  ],
+  "definition_en": "hand, arm; 5",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "52": {
+  "word": "lukin",
+  "ucsur_hex": "U+F192E",
+  "category": [
+   "body",
+   "sight"
+  ],
+  "definition_en": "look, see, examine; eye; try",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "53": {
+  "word": "lupa",
+  "ucsur_hex": "U+F192F",
+  "category": [
+   "things"
+  ],
+  "definition_en": "door, window, hole, pit, portal",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "54": {
+  "word": "ma",
+  "ucsur_hex": "U+F1930",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "earth, land, soil; country, territory",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "55": {
+  "word": "mama",
+  "ucsur_hex": "U+F1931",
+  "category": [
+   "people"
+  ],
+  "definition_en": "parent, caretaker; creator",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "56": {
+  "word": "mani",
+  "ucsur_hex": "U+F1932",
+  "category": [
+   "necessities"
+  ],
+  "definition_en": "money, currency; valuables",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "57": {
+  "word": "meli",
+  "ucsur_hex": "U+F1933",
+  "category": [
+   "people"
+  ],
+  "definition_en": "female, feminine",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "58": {
+  "word": "meso",
+  "ucsur_hex": "U+F1982",
+  "category": [
+   "locating"
+  ],
+  "definition_en": "midpoint, medium, mediocre;",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "59": {
+  "word": "mi",
+  "ucsur_hex": "U+F1934",
+  "category": [
+   "people"
+  ],
+  "definition_en": "(1st-person) I, me, we, us",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "60": {
+  "word": "mije",
+  "ucsur_hex": "U+F1935",
+  "category": [
+   "people"
+  ],
+  "definition_en": "male, masculine",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "61": {
+  "word": "misikeke",
+  "ucsur_hex": "U+F1987",
+  "category": [
+   "necessities"
+  ],
+  "definition_en": "medication, medical practice",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "62": {
+  "word": "moku",
+  "ucsur_hex": "U+F1936",
+  "category": [
+   "necessities"
+  ],
+  "definition_en": "eat, drink; food",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "63": {
+  "word": "moli",
+  "ucsur_hex": "U+F1937",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "death, dead, dying; kill, murder",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "64": {
+  "word": "monsi",
+  "ucsur_hex": "U+F1938",
+  "category": [
+   "locating",
+   "body"
+  ],
+  "definition_en": "behind, back, rear",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "65": {
+  "word": "monsuta",
+  "ucsur_hex": "U+F197D",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "monster, fear, scary, threat, danger",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "66": {
+  "word": "mu",
+  "ucsur_hex": "U+F1939",
+  "category": [
+   "evoke"
+  ],
+  "definition_en": "(animal noise/onomatopoeia)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "67": {
+  "word": "mun",
+  "ucsur_hex": "U+F193A",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "moon, night sky object, star",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "68": {
+  "word": "musi",
+  "ucsur_hex": "U+F193B",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "entertainment, fun, game, art, amusing, interesting",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "69": {
+  "word": "mute",
+  "ucsur_hex": "U+F193C",
+  "category": [
+   "counting"
+  ],
+  "definition_en": "many, several; very; 20",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "70": {
+  "word": "n",
+  "ucsur_hex": "U+F1986",
+  "category": [
+   "evoke"
+  ],
+  "definition_en": "(thinking interjection); hm, uh",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "71": {
+  "word": "namako",
+  "ucsur_hex": "U+F1978",
+  "category": [
+   "things",
+   "descriptions"
+  ],
+  "definition_en": "spice, ornament; extra, additional",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "72": {
+  "word": "nanpa",
+  "ucsur_hex": "U+F193D",
+  "category": [
+   "counting"
+  ],
+  "definition_en": "number, -th",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "73": {
+  "word": "nasa",
+  "ucsur_hex": "U+F193E",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "strange, unusual, silly, unexpected; drunk",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "74": {
+  "word": "nasin",
+  "ucsur_hex": "U+F193F",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "method, doctrine; road, way",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "75": {
+  "word": "nena",
+  "ucsur_hex": "U+F1940",
+  "category": [
+   "body",
+   "things"
+  ],
+  "definition_en": "nose, bump, hill, button",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "76": {
+  "word": "ni",
+  "ucsur_hex": "U+F1941",
+  "category": [
+   "locating"
+  ],
+  "definition_en": "this, that, these, those",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "77": {
+  "word": "nimi",
+  "ucsur_hex": "U+F1942",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "word, name",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "78": {
+  "word": "noka",
+  "ucsur_hex": "U+F1943",
+  "category": [
+   "body"
+  ],
+  "definition_en": "foot, leg; roots, lower part",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "79": {
+  "word": "o",
+  "ucsur_hex": "U+F1944",
+  "category": [
+   "evoke"
+  ],
+  "definition_en": "(vocative/imperative marker), must, ought, should, could, would",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "80": {
+  "word": "olin",
+  "ucsur_hex": "U+F1945",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "love, bond, compassion, respect",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "81": {
+  "word": "ona",
+  "ucsur_hex": "U+F1946",
+  "category": [
+   "people"
+  ],
+  "definition_en": "(3rd-person) he, she, it, they, …",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "82": {
+  "word": "open",
+  "ucsur_hex": "U+F1947",
+  "category": [
+   "state"
+  ],
+  "definition_en": "begin, start; turn on; opening",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "83": {
+  "word": "pakala",
+  "ucsur_hex": "U+F1948",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "damage, break, harm; mistake",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "84": {
+  "word": "pali",
+  "ucsur_hex": "U+F1949",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "work, create, take action on",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "85": {
+  "word": "palisa",
+  "ucsur_hex": "U+F194A",
+  "category": [
+   "things"
+  ],
+  "definition_en": "long hard object, rod, stick",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "86": {
+  "word": "pan",
+  "ucsur_hex": "U+F194B",
+  "category": [
+   "necessities"
+  ],
+  "definition_en": "bread, grain, potato, pasta, rice",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "87": {
+  "word": "pana",
+  "ucsur_hex": "U+F194C",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "give, send, emit, provide",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "88": {
+  "word": "pi",
+  "ucsur_hex": "U+F194D",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(regroups modifiers)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "89": {
+  "word": "pilin",
+  "ucsur_hex": "U+F194E",
+  "category": [
+   "ideas",
+   "body"
+  ],
+  "definition_en": "heart, feeling (emotion, sense)",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "90": {
+  "word": "pimeja",
+  "ucsur_hex": "U+F194F",
+  "category": [
+   "sight"
+  ],
+  "definition_en": "black; dark, unlit; dark color",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "91": {
+  "word": "pini",
+  "ucsur_hex": "U+F1950",
+  "category": [
+   "state"
+  ],
+  "definition_en": "finish, stop; turn off; close, end, final",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "92": {
+  "word": "pipi",
+  "ucsur_hex": "U+F1951",
+  "category": [
+   "critters"
+  ],
+  "definition_en": "insect, bug, spider, tiny crawling creature",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "93": {
+  "word": "poka",
+  "ucsur_hex": "U+F1952",
+  "category": [
+   "locating"
+  ],
+  "definition_en": "side, hip; next to, near",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "94": {
+  "word": "poki",
+  "ucsur_hex": "U+F1953",
+  "category": [
+   "things",
+   "locating"
+  ],
+  "definition_en": "container, bag, bowl, box, cup, category",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "95": {
+  "word": "pona",
+  "ucsur_hex": "U+F1954",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "good, positive, pleasant, simple, friendly, useful, peaceful, based",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "96": {
+  "word": "pu",
+  "ucsur_hex": "U+F1955",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "to interact with Toki Pona: The Language of Good by Sonja Lang",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "97": {
+  "word": "sama",
+  "ucsur_hex": "U+F1956",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "same, similar; sibling, peer; as, like",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "98": {
+  "word": "seli",
+  "ucsur_hex": "U+F1957",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "hot, warm; heat, fire; burn",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "99": {
+  "word": "selo",
+  "ucsur_hex": "U+F1958",
+  "category": [
+   "locating",
+   "body"
+  ],
+  "definition_en": "outer layer, skin, peel, shell, bark; boundary",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "100": {
+  "word": "seme",
+  "ucsur_hex": "U+F1959",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "(question marker); what, which",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "101": {
+  "word": "sewi",
+  "ucsur_hex": "U+F195A",
+  "category": [
+   "locating",
+   "ideas"
+  ],
+  "definition_en": "up, top, above; divine, sacred, supernatural; awesome, inspiring",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "102": {
+  "word": "sijelo",
+  "ucsur_hex": "U+F195B",
+  "category": [
+   "body"
+  ],
+  "definition_en": "body, physical state, torso",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "103": {
+  "word": "sike",
+  "ucsur_hex": "U+F195C",
+  "category": [
+   "things"
+  ],
+  "definition_en": "circle, sphere; cycle, orbit, year",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "104": {
+  "word": "sin",
+  "ucsur_hex": "U+F195D",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "new, fresh; another, extra",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "105": {
+  "word": "sina",
+  "ucsur_hex": "U+F195E",
+  "category": [
+   "people"
+  ],
+  "definition_en": "(2nd-person) you, y'all",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "106": {
+  "word": "sinpin",
+  "ucsur_hex": "U+F195F",
+  "category": [
+   "locating",
+   "body"
+  ],
+  "definition_en": "vertical surface, wall; front, face",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "107": {
+  "word": "sitelen",
+  "ucsur_hex": "U+F1960",
+  "category": [
+   "sight",
+   "activity"
+  ],
+  "definition_en": "image, picture, symbol, writing",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "108": {
+  "word": "soko",
+  "ucsur_hex": "U+F1981",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "mushroom, fungus, lichen",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "109": {
+  "word": "sona",
+  "ucsur_hex": "U+F1961",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "knowledge, information; know; wisdom, skill",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "110": {
+  "word": "soweli",
+  "ucsur_hex": "U+F1962",
+  "category": [
+   "critters"
+  ],
+  "definition_en": "land animal, beast",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "111": {
+  "word": "su",
+  "ucsur_hex": null,
+  "category": [
+   "activity"
+  ],
+  "definition_en": "to interact with the illustrated story book series produced by Sonja Lang",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "112": {
+  "word": "suli",
+  "ucsur_hex": "U+F1963",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "big, heavy, large; important; adult",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "113": {
+  "word": "suno",
+  "ucsur_hex": "U+F1964",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "sun, light source; light, glow",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "114": {
+  "word": "supa",
+  "ucsur_hex": "U+F1965",
+  "category": [
+   "things"
+  ],
+  "definition_en": "horizontal surface, bed, floor, table, platform, stage",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "115": {
+  "word": "suwi",
+  "ucsur_hex": "U+F1966",
+  "category": [
+   "descriptions"
+  ],
+  "definition_en": "sweet; cute, innocent, adorable",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "116": {
+  "word": "tan",
+  "ucsur_hex": "U+F1967",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "by, from, because; origin, cause",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "117": {
+  "word": "taso",
+  "ucsur_hex": "U+F1968",
+  "category": [
+   "connection"
+  ],
+  "definition_en": "only, exclusively; but, however",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "118": {
+  "word": "tawa",
+  "ucsur_hex": "U+F1969",
+  "category": [
+   "state"
+  ],
+  "definition_en": "motion, walking, flight, travel; going to, for; from the perspective of",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "119": {
+  "word": "telo",
+  "ucsur_hex": "U+F196A",
+  "category": [
+   "elements"
+  ],
+  "definition_en": "water, liquids, drinks; to wash, to clean",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "120": {
+  "word": "tenpo",
+  "ucsur_hex": "U+F196B",
+  "category": [
+   "state",
+   "ideas"
+  ],
+  "definition_en": "time, moment, period, duration",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "121": {
+  "word": "toki",
+  "ucsur_hex": "U+F196C",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "talk, communicate; tale; language",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "122": {
+  "word": "tomo",
+  "ucsur_hex": "U+F196D",
+  "category": [
+   "necessities"
+  ],
+  "definition_en": "building, room, tent, shelter",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "123": {
+  "word": "tonsi",
+  "ucsur_hex": "U+F197E",
+  "category": [
+   "people"
+  ],
+  "definition_en": "nonbinary; transgender",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "124": {
+  "word": "tu",
+  "ucsur_hex": "U+F196E",
+  "category": [
+   "counting"
+  ],
+  "definition_en": "2; separate, divide, split",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "125": {
+  "word": "unpa",
+  "ucsur_hex": "U+F196F",
+  "category": [
+   "activity"
+  ],
+  "definition_en": "sex, to have sexual relations",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "126": {
+  "word": "uta",
+  "ucsur_hex": "U+F1970",
+  "category": [
+   "body"
+  ],
+  "definition_en": "mouth, lips",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "127": {
+  "word": "utala",
+  "ucsur_hex": "U+F1971",
+  "category": [
+   "ideas",
+   "activity"
+  ],
+  "definition_en": "fight, compete, battle; challenge",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "128": {
+  "word": "walo",
+  "ucsur_hex": "U+F1972",
+  "category": [
+   "sight"
+  ],
+  "definition_en": "white; light-colored, bright color",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "129": {
+  "word": "wan",
+  "ucsur_hex": "U+F1973",
+  "category": [
+   "counting"
+  ],
+  "definition_en": "1; combine, join, mix",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "130": {
+  "word": "waso",
+  "ucsur_hex": "U+F1974",
+  "category": [
+   "critters"
+  ],
+  "definition_en": "bird, flying animal, winged animal",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "131": {
+  "word": "wawa",
+  "ucsur_hex": "U+F1975",
+  "category": [
+   "ideas"
+  ],
+  "definition_en": "amazing; power, energy; intense",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "132": {
+  "word": "weka",
+  "ucsur_hex": "U+F1976",
+  "category": [
+   "locating",
+   "state"
+  ],
+  "definition_en": "away, absent, distant; remove, rid",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "133": {
+  "word": "wile",
+  "ucsur_hex": "U+F1977",
+  "category": [
+   "necessities",
+   "ideas"
+  ],
+  "definition_en": "want, must, need",
+  "fonts": [
+   "Lilintawa.ttf",
+   "fairfax-pona.ttf",
+   "kasi linja tan kasi Lija.ttf",
+   "linja-sike.otf",
+   "linjalipamanka-normal.ttf",
+   "loje meli.ttf",
+   "nasin-nanpa.otf",
+   "sitelen Lenluwi.ttf",
+   "sitelen-Tojoko.ttf",
+   "sitelen-ante-en-ijo-ona-utala-Esi-tan-mu-Esitense.ttf",
+   "sitelen-pi-pan-Nuto.ttf",
+   "sitelen-pona-Elopa-pi-ma-Sapu.ttf",
+   "sitelenselikiwenasuki.ttf"
+  ]
+ },
+ "134": {
+  "word": "not_sitelen_pona",
+  "ucsur_hex": null,
+  "category": [
+   "reject"
+  ],
+  "definition_en": "not a sitelen pona glyph",
+  "fonts": []
+ }
+}

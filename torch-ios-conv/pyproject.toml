@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "coremltools>=9.0",
     "ipykernel>=7.2.0",
+    "safetensors>=0.8.0",
     "toml>=0.10.2",
     "torch==2.7",
 ]
